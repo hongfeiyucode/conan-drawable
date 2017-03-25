@@ -1,21 +1,34 @@
 # conan-drawable
 
+《名侦探柯南》 
 从官方APK分离出来的青山原画图片素材
 
+《名探偵コナン》
 公式APKの映像素材から離し
 
+《Detective Conan，Case Closed》
 The picture of Conan from the official APK
 
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_01.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_02.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_03.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_04.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_05.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_06.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_07.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_08.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_09.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_10.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_11.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_12.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_13.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_14.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_15.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_16.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_17.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_18.jpg)
-![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_19.jpg)![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_20.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_01.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_02.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_03.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_04.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_05.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_06.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_07.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_08.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_09.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_10.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_11.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_12.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_13.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_14.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_15.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_16.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_17.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_18.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_19.jpg)
+![splash](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/splash_20.jpg)
 
 
 ![stamp](https://github.com/hongfeiyucode/conan-drawable/blob/master/drawable-xxhdpi-v4/stamp_1.png)
